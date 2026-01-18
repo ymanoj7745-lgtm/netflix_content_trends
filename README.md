@@ -74,4 +74,4 @@ This EDA provides valuable insights into Netflix’s growth trends, regional dom
 
 ## ✍️ Author
 
-*Your Name*
+*Y Manoj*
